@@ -1,7 +1,7 @@
-import { Button } from '@/components/ui/button';
+import { ChessBoard } from '@/components/screens/chess-board';
 
 const App = () => {
-    return <Button>Hello</Button>;
+    return <ChessBoard />;
 };
 
 export default App;

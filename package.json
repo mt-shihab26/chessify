@@ -7,7 +7,7 @@
         "dev": "vite",
         "build": "tsc -b && vite build",
         "preview": "vite preview",
-        "format": "prettier --write '**/*.{js,jsx,ts,tsx,json,svg,md,html,css}'",
+        "format": "prettier --write '**/*.{js,jsx,ts,tsx,json,md,html,svg,css}'",
         "lint": "tsc && eslint .",
         "shadcn": "bunx --bun shadcn@latest"
     },
